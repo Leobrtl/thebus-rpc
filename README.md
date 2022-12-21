@@ -5,9 +5,6 @@ This sourcecode is here to use Discord RPC for The Bus, a game made by TML Studi
 ![image](https://user-images.githubusercontent.com/29234452/208965256-c4318db9-7c04-43c5-970d-35edc4484376.png)
 
 
-# Summary
-This tutorial will show you how to install NodeJS and all the modules from the package.json file.
-
 # Prerequisites
 - A computer with an internet connection
 - A text editor (I use Visual Studio Code)

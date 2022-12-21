@@ -2,6 +2,9 @@
 # Overview
 This sourcecode is here to use Discord RPC for The Bus, a game made by TML Studios. You can easily edit configuration file to edit what you want to display on your Discord profile, such as buttons, images, etc using your own Discord application or the default one.
 
+![image](https://user-images.githubusercontent.com/29234452/208965256-c4318db9-7c04-43c5-970d-35edc4484376.png)
+
+
 # Summary
 This tutorial will show you how to install NodeJS and all the modules from the package.json file.
 
@@ -24,7 +27,14 @@ This tutorial will show you how to install NodeJS and all the modules from the p
 2. Type `npm start` to run the script
 
 # Configuring the script
-- Open the config.json file and change the values to your liking
+
+![image](https://user-images.githubusercontent.com/29234452/208965004-9e3abb34-f026-498c-a188-7f11521f1ff3.png)
+
+- DISCORD_APP_ID: By default is 1052523461140021278, if you want to use custom, please refer to the "Discord application Setup" section.
+- RPC_DETAILS & RPC_STATE: Here, you can simply write what you want, or keep it like default (Driving a bus / In Berlin)
+- Buttons:
+    - Buttons need to be always 2.
+    - If you want to edit buttons, simply change label and url by what you want. URL need to be a valid URL
 
 # Discord Application Setup
 

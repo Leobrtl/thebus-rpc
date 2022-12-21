@@ -49,6 +49,7 @@ This tutorial will show you how to install NodeJS and all the modules from the p
 
 ## Discord App Id is not set or invalid
 ![image](https://user-images.githubusercontent.com/29234452/208963736-739ae705-6661-48b7-b459-ad959eae4347.png)
+
 This problem occurs when your "App Id" is invalid in the config.json file, by default the application ID is "1052523461140021278". 
 However, you may have changed this, if so, please refer to the "Discord application Setup" section.
 

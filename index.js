@@ -23,10 +23,7 @@ console.log(colors.white('[The Bus RPC]'), colors.white(`-----------------------
 console.log(colors.magenta('[The Bus RPC]'), colors.yellow(`The Bus Unofficial RPC`));
 console.log(colors.magenta('[The Bus RPC]'), colors.yellow(`Developed by leobrtlt#0001`));
 console.log(colors.magenta('[The Bus RPC]'), colors.white(`Source code available on GitHub: https://github.com/Leobrtl/thebus-rpc`));
-console.log(colors.magenta('[The Bus RPC]'), colors.red(`This software is not affiliated with TML Studios`));
-console.log(colors.magenta('[The Bus RPC]'), colors.red(`This software is not affiliated with Discord`));
-console.log(colors.magenta('[The Bus RPC]'), colors.red(`This software is not affiliated with The Bus`));
-console.log(colors.magenta('[The Bus RPC]'), colors.red(`This software is not affiliated with any other company`));
+console.log(colors.magenta('[The Bus RPC]'), colors.red(`This software is not affiliated with TML Studios, Discord and any other company`));
 console.log(colors.white('[The Bus RPC]'), colors.white(`-----------------------------------------------`));
 console.log(colors.yellow('[The Bus RPC]'), colors.green(`Loading configuration file...`));
 if (config.DISCORD_APP_ID == "") {

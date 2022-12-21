@@ -27,6 +27,9 @@ This tutorial will show you how to install NodeJS and all the modules from the p
 - Open the config.json file and change the values to your liking
 
 # Discord Application Setup
+
+- By default, i've created a "The Bus RPC" app, default configuration of config.json file (appid: 1052523461140021278)
+
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) and create a new application
 - Go to the Rich Presence tab and upload your images
 - Go to the OAuth2 tab and enable the "rpc" scope

@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/Leobrtl/thebus-rpc/main/logo.png)
 # Overview
 This sourcecode is here to use Discord RPC for The Bus, a game made by TML Studios. You can easily edit configuration file to edit what you want to display on your Discord profile, such as buttons, images, etc using your own Discord application or the default one.
 

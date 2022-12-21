@@ -1,0 +1,15 @@
+{
+    "DISCORD_APP_ID":"1052523461140021278",
+    "RPC_DETAILS": "Driving a bus",
+    "RPC_STATE": "In Berlin",
+    "buttons": [
+        {
+            "label": "🌐 Social Network",
+            "url": "https://google.com/"
+        },
+        {
+            "label": "🗺️ Github Page",
+            "url": "https://google.com/"
+        }
+    ]
+}

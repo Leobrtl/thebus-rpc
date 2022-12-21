@@ -8,7 +8,6 @@ This tutorial will show you how to install NodeJS and all the modules from the p
 - A computer with an internet connection
 - A text editor (I use Visual Studio Code)
 - NodeJS installed
-- NEXE for compiling the script into an executable file (optional)
 
 # Installing NodeJS
 1. Go to the [NodeJS website](https://nodejs.org/en/download/) and download the latest version of NodeJS
@@ -33,15 +32,6 @@ This tutorial will show you how to install NodeJS and all the modules from the p
 - Copy the Client ID and paste it in the config.json file
 - Launch the script
 
-# Installing NEXE (optional)
-1. Open a terminal and type `npm install nexe -g` to install NEXE globally
-2. Type `nexe -v` to check if NEXE is installed
-
-# Compiling the script into an executable file
-1. Open a terminal and navigate to the folder where the package.json file is located
-2. Type `nexe -i index.js -o install-nodejs.exe` to compile the script into an executable file
-3. The executable file will be located in the folder where the package.json file is located
-
 # Contributing
 - Fork the repository
 - Create a new branch
@@ -50,7 +40,6 @@ This tutorial will show you how to install NodeJS and all the modules from the p
 
 
 # Troubleshooting
-- if you get an error while installing "npm i windows-build-tools -g", install in Powershell as administrator
 - If you get an error when running `npm install`, try running `npm install --no-bin-links` instead
 - If you get an error when running `npm start`, try running `npm start --no-bin-links` instead
 

@@ -19,8 +19,10 @@ This tutorial will show you how to install NodeJS and all the modules from the p
 3. Open a terminal and type `node -v` to check if NodeJS is installed
 
 # Installing the modules
-1. Open a terminal and navigate to the folder where the package.json file is located
-2. Type `npm install` to install all the modules
+1. Download the script on "Code" button and "Download ZIP"
+2. Extract to a folder on your computer
+3. Open a terminal and navigate to the folder where the package.json file is located
+4. Type `npm install` to install all the modules
 
 # Running the script
 1. Open a terminal and navigate to the folder where the package.json file is located
